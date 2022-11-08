@@ -1,0 +1,66 @@
+body{
+    font-family: sans-serif;
+    margin: 0px;
+    background: url(https://raw.githubusercontent.com/rafao-hub/imagens/main/emprestimo.jpg);
+    background-size: cover;
+    outline: none;
+    padding: none;
+    }
+    
+    form{
+    text-align: center;
+    margin: none;
+    margin-top: 2%;
+    padding-top: 20px;
+    color: #2f3542;
+    }
+    input{
+    text-align: center;
+    font-size: 16px;
+    padding: 8px;
+    width: 400px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    background: none;
+    margin: none;
+    color: #2f3542;
+    }
+    #Registrar{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+    transition: 0.46s;
+    }
+    #Registrar:hover{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+    background-color:#2f3542;
+    color: white;
+    transition: 0.46s
+    }
+    .box{
+      background-color: #a200ff1f;
+      opacity: 0.8;
+      margin-top: 2%;
+      margin-left: 350px;
+      margin-right: 350px;
+      border-radius: 18px;
+      height: 480px;
+    }
+    
+    p{
+    margin-top: 10px;
+    color: #2f3542;
+    }
+    h1 {
+    margin: 0px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 2%;
+    color: #2f3542;
+    opacity: 0.8;
+    }
