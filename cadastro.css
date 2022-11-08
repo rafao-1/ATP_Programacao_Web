@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    background: url(https://raw.githubusercontent.com/rafao-hub/imagens/main/cadastro.jpg);
+    background-size: cover;
+  
+  }
+  
+  input{
+  width: 300px;
+  font-size: 14px;
+  margin-left: 50px;
+  font-family: sans-serif;
+  padding: 10px;
+  outline: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #2f3542;
+  border-radius: 10px;
+  background: none;
+  transition: 0.26s;
+  color: #2f3542;
+  }
+  input:hover{
+  width: 300px;
+  font-size: 14px;
+  font-family: sans-serif;
+  padding: 10px;
+  outline: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background: none;
+  transition: 0.26s;
+  }
+  td{
+    padding: 2px;
+    text-align: left;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #2f3542;
+  }
+  p{
+  font-size: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  color: #2f3542;
+  opacity: 0.6;
+  text-shadow: white 0.12em 0.12em 0.5em;
+  }
+  #Enviar{
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  color: #2f3542;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: 0.36s;
+  margin-right: 110px;
+  }
+  #Enviar:hover{
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 20px;
+  background-color: #2f3542;
+  transition: 0.36s;
+  margin-right: 110px;
+  border: 1px solid #2f3542;
+  }
+  form{
+    text-align: center;
+  }
+  .box{
+  background-color: #a200ff1f;
+  opacity: 0.8;
+  margin-top: 5%;
+  margin-left: 350px;
+  margin-right: 350px;
+  border-radius: 18px;
+  height: 500px;
+  }
+  h1 {
+  margin: 0px;
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 2%;
+  color: #2f3542;
+  opacity: 0.8;
+  }
+  #senha1, #senha2{
+  margin-left: 290px;;
+  transition:0.46s;
+  }
+  
+  #resetsenha {
+  margin-left: 370px;
+  margin-top: 50px;
+  width: 150px;
+  transition:0.46s;
+  }
+  #resetsenha:hover{
+  background-color: #2f3542;
+  color: white;
+  transition:0.46s;
+  border: 1px solid #2f3542;
+  }
+  h3{
+  color: #2f3542;
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 120px;
+  }
+  table{
+    margin-left: 150px;;
+  }

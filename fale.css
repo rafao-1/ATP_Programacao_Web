@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    background: url(https://raw.githubusercontent.com/rafao-hub/imagens/main/faleConosco.jpg);
+    background-size: cover;
+    }
+    h1{
+    margin-top:40px;
+    color: #2f3542;
+    }
+    input{
+    outline: none;
+    padding: 6px;
+    width: 300px;
+    margin-top:20px;
+    border-radius: 8px;
+    border: 1px solid #2f3542;
+    background: none;
+    transition: 0.46s;
+    }
+    input:hover{
+    outline: none;
+    padding: 6px;
+    width: 300px;
+    margin-top:20px;
+    border-radius: 8px;
+    border: 1px solid #2f3542;
+    background: #a200ff1f;
+    transition: 0.46s;
+    opacity: 0.6;
+    }
+    textarea{
+    margin-top:40px;
+    border: 1px solid #2f3542;
+    border-radius: 8px;
+    background: #a200ff1f;
+    color: #2f3542;
+    outline: none;
+    opacity: 0.6;
+    }
+    #Envia{
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #2f3542;
+    background: #2f3542;
+    color: white;
+    font-family: sans-serif;
+    transition: 0.46s;
+    }
+    #Envia:hover{
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #a200ff1f;
+    background: #a200ff1f;
+    color: white;
+    font-family: sans-serif;
+    transition: 0.46s;
+    color: #2f3542;
+    }
